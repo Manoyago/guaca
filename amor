@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>YAGO</title>
+    <style>
+        body{
+            background-image: url(tr.jpg);
+            text-decoration: color(rgb(0, 0, 0));
+        }
+        h1{
+            color: rgb(10, 9, 9);
+             text-align: center;
+        }
+        p{
+            color:rgb(0, 0, 0);
+            text-align: center;
+        }
+        h2{
+            color:rgb(5, 2, 5);
+            text-align: center;
+        }
+        h3{
+            color:rgb(0, 0, 0);
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+<h1>AMOR DA MINHA VIDA! /h1>
+<h2>amo vocÊ por mais que não pareça, se soubese nunca questionaria, porem as vezes sei que vacilo, mas entenda que não faço mal.
+    criei esse site pra me desculpar por tudo! TE AMO
+</h2>
+
+<h3>yago siqueira</h3>
+<p>para carol</p><br>
+<p>amo te</p>
+
+<img src="c:\Users\padaria\Documents\Imagem do WhatsApp de 2025-03-26 à(s) 19.55.16_ba23f7b5.jpg"
+
+
+
+</body>
+
+</html>
